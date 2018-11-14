@@ -1,4 +1,4 @@
-package sample;
+package userinterface;
 
 import java.util.Random;
 
